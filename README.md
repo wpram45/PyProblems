@@ -6,4 +6,4 @@ And this is my <a href=https://github.com/wpram45/PyProblems/blob/master/NestedL
 
 
 
-<img src="https://www.dijitaller.com/wp-content/uploads/2016/11/3279-768x483.jpg" alt="Smiley face" height="42" width="42">
+<img src="https://www.dijitaller.com/wp-content/uploads/2016/11/3279-768x483.jpg" >
