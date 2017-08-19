@@ -1,8 +1,8 @@
 # PyProblems
 HackerRankProblems:
-Here <a href=https://www.hackerrank.com/challenges/nested-list >This </a> our problem :
+Here <a href=https://www.hackerrank.com/domains/python/py-introduction >This </a> our problems :
 
-And this is my <a href=https://github.com/wpram45/PyProblems/blob/master/NestedLists.py>Solve </a>
+And this is my <a href=https://github.com/wpram45/PyProblems>My solves </a>
 
 
 
