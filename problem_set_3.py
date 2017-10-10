@@ -25,7 +25,7 @@ while i < len(s)-1:
 
 
 
-print("toplam",maks,index)
+
 
 print(s[index-maks:index+1])
 
